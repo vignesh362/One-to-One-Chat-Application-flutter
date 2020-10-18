@@ -1,4 +1,4 @@
-# mymainchat
+# chat
 
 A new Flutter application.
 

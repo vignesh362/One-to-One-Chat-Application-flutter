@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "380241565282",
+    "firebase_url": "https://mymainchat-ca880.firebaseio.com",
+    "project_id": "mymainchat-ca880",
+    "storage_bucket": "mymainchat-ca880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380241565282:android:e5426640eaa95d561ee33b",
+        "android_client_info": {
+          "package_name": "com.abc.mymainchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380241565282-7oge4qp4ggji4sg0nc6e2q1ddh41lffi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWqjOOFKevdl6gJXhDc1GWWv1SWhqJX20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380241565282-7oge4qp4ggji4sg0nc6e2q1ddh41lffi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
