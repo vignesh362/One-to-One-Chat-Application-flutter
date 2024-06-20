@@ -1,8 +1,7 @@
 # chat application
 
-A new Flutter application.
+A Flutter application.
 
 ## Getting Started
 
-You can actually make this in to an one to one chat app using shared preference,
-I did not make a sign in page , so in this project i have not filled the shared preference , this can be easily combined with already built app(or just an sign up page)
+Developed a Flutter mobile application with real-time Firebase database integration to improve communication. The app can be extended into a one-to-one chat application using shared preferences. While I didn't include a sign-in page in this project, adding one would seamlessly integrate shared preferences for enhanced functionality.
